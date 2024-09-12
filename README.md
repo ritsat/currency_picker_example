@@ -8,7 +8,7 @@ This project covers how to implement a currency picker in a Flutter application.
 
 ## Dependencies
 
-[insta_like_button](https://pub.dev/packages/currency_picker)
+[currency_picker](https://pub.dev/packages/currency_picker)
 
 ## Youtube
 
